@@ -1,4 +1,4 @@
-# Reliquia-The-Immortality-Stone-V2
+# Reliquia
 [https://www.facebook.com/ProjetReliquia](https://www.facebook.com/ProjetReliquia)+
 
 ***
