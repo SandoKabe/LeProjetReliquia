@@ -1,5 +1,5 @@
 # Reliquia
-[https://www.facebook.com/ProjetReliquia](https://www.facebook.com/ProjetReliquia)+
+[https://www.facebook.com/ProjetReliquia](https://www.facebook.com/ProjetReliquia).
 
 ***
 Documentation
