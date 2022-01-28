@@ -31,10 +31,12 @@
 
 - Quelle était ma mission  
 
-Développer le système d'*IA*;   
-<img src="https://media.githubusercontent.com/media/SandoKabe/LFS/main/Reliquia3.png" width=620 />
+Développer le système d'*IA* et les interactions avec *l'environnement*;  
+<!--<img src="https://media.githubusercontent.com/media/SandoKabe/LFS/main/Reliquia3.png" width=620 />
+
 
 Développer les interactions avec *l'environnement*;  
+-->
 <img src="https://media.githubusercontent.com/media/SandoKabe/LFS/main/Reliquia4.png" width=620 />
 
 <br/>
