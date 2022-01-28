@@ -48,9 +48,9 @@ Développer les interactions avec *l'environnement*;
 
 
 - Mes responsabilités
-- Comment allions-nous nous organisez pour répondre à cette misssion
-- Quelles étaient nos contraintes, nos moyens de communication 
-- En quoi cela participe à la réflexion sur les NUI
+- Comment allions-nous nous organiser pour répondre à cette misssion;
+- Quelles étaient nos contraintes, nos moyens de communication ;
+- En quoi cela participe à la réflexion sur les NUI;
 
 <br/>
 
