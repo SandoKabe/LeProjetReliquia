@@ -22,4 +22,4 @@ Ci-dessous les différentes tâches réalisées :
 > 
 >
 
-Suivre la présentation du [*projet*](https://github.com/SandoKabe/LeProjetReliquia/tree/a09103171cec3907f0f940641031575f0e5c3a14#presentation).
+Suivre la présentation du [*projet*](https://github.com/SandoKabe/LeProjetReliquia/blob/main/Presentation.md).
